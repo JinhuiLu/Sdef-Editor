@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Info.rtf</string>
+	<key>DisplayName</key>
+	<string>AS Dictionary with frame</string>
+	<key>HTMLStyleSheets</key>
+	<dict>
+		<key>Green</key>
+		<string>asgreen.css</string>
+		<key>Standard</key>
+		<string>asdictionary.css</string>
+	</dict>
+	<key>RequireFileType</key>
+	<string>html</string>
+	<key>TemplateFormat</key>
+	<string>HTML</string>
+	<key>TemplateStrings</key>
+	<dict>
+		<key>Direct-Parameter.Description</key>
+		<string>-- %@</string>
+		<key>Links</key>
+		<string>&lt;a href="%@#%@" class="links"&gt;%@&lt;/a&gt;</string>
+		<key>Parameter.Description</key>
+		<string>-- %@</string>
+		<key>Property.Description</key>
+		<string>-- %@</string>
+		<key>Result.Description</key>
+		<string>-- %@</string>
+		<key>Toc-Links</key>
+		<string>&lt;a href="%@#%@" class="toc_link" target="content"&gt;%@&lt;/a&gt;</string>
+	</dict>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
